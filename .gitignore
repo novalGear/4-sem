@@ -1,1 +1,3 @@
 fraction/fraction
+*.so
+*.class
