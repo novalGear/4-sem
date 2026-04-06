@@ -1,0 +1,12 @@
+Generating dataset...
+Train samples: 8000, Test samples: 2000
+Train batches: 250, Test batches: 63
+Model architecture: 4 -> 64 -> 32 -> 4
+Total parameters: 2532
+
+Training for 100 epochs...
+------------------------------------------------------------
+Epoch   1/100 | Train Loss: 12.496633 | Test Loss: 10.110775
+Epoch  10/100 | Train Loss: 0.240820 | Test Loss: 0.208854
+Epoch  20/100 | Train Loss: 0.098540 | Test Loss: 0.089571
+Epoch  30/100 | Train Loss: 0.071945 | Test Loss: 0.063996
